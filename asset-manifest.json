@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-stickynote-app/static/css/main.3996c58c.chunk.css",
+    "main.js": "/react-stickynote-app/static/js/main.eabe01f6.chunk.js",
+    "main.js.map": "/react-stickynote-app/static/js/main.eabe01f6.chunk.js.map",
+    "runtime-main.js": "/react-stickynote-app/static/js/runtime-main.03e61735.js",
+    "runtime-main.js.map": "/react-stickynote-app/static/js/runtime-main.03e61735.js.map",
+    "static/js/2.9bd273ff.chunk.js": "/react-stickynote-app/static/js/2.9bd273ff.chunk.js",
+    "static/js/2.9bd273ff.chunk.js.map": "/react-stickynote-app/static/js/2.9bd273ff.chunk.js.map",
+    "index.html": "/react-stickynote-app/index.html",
+    "static/css/main.3996c58c.chunk.css.map": "/react-stickynote-app/static/css/main.3996c58c.chunk.css.map",
+    "static/js/2.9bd273ff.chunk.js.LICENSE.txt": "/react-stickynote-app/static/js/2.9bd273ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03e61735.js",
+    "static/js/2.9bd273ff.chunk.js",
+    "static/css/main.3996c58c.chunk.css",
+    "static/js/main.eabe01f6.chunk.js"
+  ]
+}
